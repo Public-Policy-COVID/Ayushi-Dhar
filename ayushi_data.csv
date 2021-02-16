@@ -1,0 +1,125 @@
+,Number_of_beds,Number_of_hospitals,State,County
+Alameda,3667.0,22,CA,Alameda
+Amador,52.0,1,CA,Amador
+Butte,553.0,6,CA,Butte
+Calaveras,25.0,1,CA,Calaveras
+Colusa,48.0,1,CA,Colusa
+Contra Costa,1803.0,10,CA,Contra Costa
+Del Norte,49.0,1,CA,Del Norte
+El Dorado,252.0,3,CA,El Dorado
+Fresno,3584.0,15,CA,Fresno
+Glenn,47.0,1,CA,Glenn
+Humboldt,299.0,6,CA,Humboldt
+Imperial,268.0,2,CA,Imperial
+Inyo,62.0,2,CA,Inyo
+Kern,1892.0,14,CA,Kern
+Kings,173.0,1,CA,Kings
+Lake,62.0,2,CA,Lake
+Lassen,25.0,1,CA,Lassen
+Los Angeles,26672.0,112,CA,Los Angeles
+Madera,464.0,2,CA,Madera
+Marin,458.0,4,CA,Marin
+Mariposa,34.0,1,CA,Mariposa
+Mendocino,142.0,3,CA,Mendocino
+Merced,242.0,3,CA,Merced
+Modoc,113.0,2,CA,Modoc
+Mono,17.0,1,CA,Mono
+Monterey,794.0,5,CA,Monterey
+Napa,1777.0,3,CA,Napa
+Nevada,174.0,2,CA,Nevada
+Orange,7985.0,38,CA,Orange
+Placer,732.0,3,CA,Placer
+Plumas,101.0,2,CA,Plumas
+Riverside,4067.0,23,CA,Riverside
+Sacramento,3489.0,16,CA,Sacramento
+San Benito,144.0,2,CA,San Benito
+San Bernardino,5988.0,28,CA,San Bernardino
+San Diego,7600.0,27,CA,San Diego
+San Francisco,4819.0,17,CA,San Francisco
+San Joaquin,1247.0,9,CA,San Joaquin
+San Luis Obispo,1740.0,6,CA,San Luis Obispo
+San Mateo,1724.0,8,CA,San Mateo
+Santa Barbara,1089.0,7,CA,Santa Barbara
+Santa Clara,3693.0,16,CA,Santa Clara
+Santa Cruz,372.0,4,CA,Santa Cruz
+Shasta,721.0,6,CA,Shasta
+Siskiyou,61.0,2,CA,Siskiyou
+Solano,753.0,7,CA,Solano
+Sonoma,892.0,9,CA,Sonoma
+Stanislaus,1580.0,10,CA,Stanislaus
+Sutter,46.0,3,CA,Sutter
+Tehama,92.0,2,CA,Tehama
+Trinity,48.0,1,CA,Trinity
+Tulare,1974.0,3,CA,Tulare
+Tuolumne,152.0,2,CA,Tuolumne
+Ventura,1623.0,11,CA,Ventura
+Yolo,153.0,2,CA,Yolo
+Yuba,221.0,1,CA,Yuba
+Baker,25.0,2,OR,Baker
+Benton,134.0,1,OR,Benton
+Clackamas,467.0,4,OR,Clackamas
+Clatsop,50.0,2,OR,Clatsop
+Coos,173.0,3,OR,Coos
+Crook,25.0,1,OR,Crook
+Curry,24.0,1,OR,Curry
+Deschutes,274.0,2,OR,Deschutes
+Douglas,145.0,3,OR,Douglas
+Grant,16.0,1,OR,Grant
+Harney,25.0,1,OR,Harney
+Hood River,25.0,1,OR,Hood River
+Jackson,543.0,3,OR,Jackson
+Jefferson,31.0,1,OR,Jefferson
+Josephine,98.0,1,OR,Josephine
+Klamath,131.0,1,OR,Klamath
+Lake,24.0,1,OR,Lake
+Lane,971.0,5,OR,Lane
+Lincoln,50.0,2,OR,Lincoln
+Linn,89.0,2,OR,Linn
+Malheur,49.0,2,OR,Malheur
+Marion,478.0,4,OR,Marion
+Morrow,12.0,1,OR,Morrow
+Multnomah,1894.0,10,OR,Multnomah
+Polk,6.0,1,OR,Polk
+Tillamook,25.0,1,OR,Tillamook
+Umatilla,74.0,3,OR,Umatilla
+Union,25.0,1,OR,Union
+Wallowa,25.0,1,OR,Wallowa
+Wasco,49.0,1,OR,Wasco
+Washington,840.0,5,OR,Washington
+Yamhill,107.0,2,OR,Yamhill
+Adams,45.0,2,WA,Adams
+Asotin,25.0,1,WA,Asotin
+Benton,438.0,4,WA,Benton
+Chelan,267.0,4,WA,Chelan
+Clallam,161.0,2,WA,Clallam
+Clark,644.0,2,WA,Clark
+Columbia,25.0,1,WA,Columbia
+Cowlitz,193.0,1,WA,Cowlitz
+Ferry,25.0,1,WA,Ferry
+Franklin,25.0,1,WA,Franklin
+Garfield,25.0,1,WA,Garfield
+Grant,150.0,4,WA,Grant
+Grays Harbor,81.0,2,WA,Grays Harbor
+Island,25.0,1,WA,Island
+Jefferson,25.0,1,WA,Jefferson
+King,5354.0,25,WA,King
+Kitsap,337.0,2,WA,Kitsap
+Kittitas,25.0,1,WA,Kittitas
+Klickitat,42.0,2,WA,Klickitat
+Lewis,158.0,2,WA,Lewis
+Lincoln,73.0,2,WA,Lincoln
+Mason,25.0,1,WA,Mason
+Okanogan,90.0,3,WA,Okanogan
+Pacific,30.0,2,WA,Pacific
+Pend Oreille,75.0,1,WA,Pend Oreille
+Pierce,1648.0,8,WA,Pierce
+San Juan,10.0,1,WA,San Juan
+Skagit,205.0,3,WA,Skagit
+Snohomish,845.0,4,WA,Snohomish
+Spokane,1478.0,6,WA,Spokane
+Stevens,95.0,2,WA,Stevens
+Thurston,500.0,2,WA,Thurston
+Walla Walla,87.0,1,WA,Walla Walla
+Whatcom,253.0,1,WA,Whatcom
+Whitman,50.0,2,WA,Whitman
+Yakima,460.0,4,WA,Yakima
