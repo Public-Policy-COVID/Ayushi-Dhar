@@ -1,2 +1,2 @@
 # Ayushi-Dhar
-Number of hospitals and hospital beds per county in Washington, Oregon and California.
+Number of hospitals and hospital beds per county in Washington, Oregon and California. (Update with more detailed info)
