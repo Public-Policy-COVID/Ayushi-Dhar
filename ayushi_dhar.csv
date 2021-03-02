@@ -1,125 +1,125 @@
-Number_of_beds,Number_of_hospitals,State,County
-3667.0,22,CA,Alameda
-52.0,1,CA,Amador
-553.0,6,CA,Butte
-25.0,1,CA,Calaveras
-48.0,1,CA,Colusa
-1803.0,10,CA,Contra Costa
-49.0,1,CA,Del Norte
-252.0,3,CA,El Dorado
-3584.0,15,CA,Fresno
-47.0,1,CA,Glenn
-299.0,6,CA,Humboldt
-268.0,2,CA,Imperial
-62.0,2,CA,Inyo
-1892.0,14,CA,Kern
-173.0,1,CA,Kings
-62.0,2,CA,Lake
-25.0,1,CA,Lassen
-26672.0,112,CA,Los Angeles
-464.0,2,CA,Madera
-458.0,4,CA,Marin
-34.0,1,CA,Mariposa
-142.0,3,CA,Mendocino
-242.0,3,CA,Merced
-113.0,2,CA,Modoc
-17.0,1,CA,Mono
-794.0,5,CA,Monterey
-1777.0,3,CA,Napa
-174.0,2,CA,Nevada
-7985.0,38,CA,Orange
-732.0,3,CA,Placer
-101.0,2,CA,Plumas
-4067.0,23,CA,Riverside
-3489.0,16,CA,Sacramento
-144.0,2,CA,San Benito
-5988.0,28,CA,San Bernardino
-7600.0,27,CA,San Diego
-4819.0,17,CA,San Francisco
-1247.0,9,CA,San Joaquin
-1740.0,6,CA,San Luis Obispo
-1724.0,8,CA,San Mateo
-1089.0,7,CA,Santa Barbara
-3693.0,16,CA,Santa Clara
-372.0,4,CA,Santa Cruz
-721.0,6,CA,Shasta
-61.0,2,CA,Siskiyou
-753.0,7,CA,Solano
-892.0,9,CA,Sonoma
-1580.0,10,CA,Stanislaus
-46.0,3,CA,Sutter
-92.0,2,CA,Tehama
-48.0,1,CA,Trinity
-1974.0,3,CA,Tulare
-152.0,2,CA,Tuolumne
-1623.0,11,CA,Ventura
-153.0,2,CA,Yolo
-221.0,1,CA,Yuba
-25.0,2,OR,Baker
-134.0,1,OR,Benton
-467.0,4,OR,Clackamas
-50.0,2,OR,Clatsop
-173.0,3,OR,Coos
-25.0,1,OR,Crook
-24.0,1,OR,Curry
-274.0,2,OR,Deschutes
-145.0,3,OR,Douglas
-16.0,1,OR,Grant
-25.0,1,OR,Harney
-25.0,1,OR,Hood River
-543.0,3,OR,Jackson
-31.0,1,OR,Jefferson
-98.0,1,OR,Josephine
-131.0,1,OR,Klamath
-24.0,1,OR,Lake
-971.0,5,OR,Lane
-50.0,2,OR,Lincoln
-89.0,2,OR,Linn
-49.0,2,OR,Malheur
-478.0,4,OR,Marion
-12.0,1,OR,Morrow
-1894.0,10,OR,Multnomah
-6.0,1,OR,Polk
-25.0,1,OR,Tillamook
-74.0,3,OR,Umatilla
-25.0,1,OR,Union
-25.0,1,OR,Wallowa
-49.0,1,OR,Wasco
-840.0,5,OR,Washington
-107.0,2,OR,Yamhill
-45.0,2,WA,Adams
-25.0,1,WA,Asotin
-438.0,4,WA,Benton
-267.0,4,WA,Chelan
-161.0,2,WA,Clallam
-644.0,2,WA,Clark
-25.0,1,WA,Columbia
-193.0,1,WA,Cowlitz
-25.0,1,WA,Ferry
-25.0,1,WA,Franklin
-25.0,1,WA,Garfield
-150.0,4,WA,Grant
-81.0,2,WA,Grays Harbor
-25.0,1,WA,Island
-25.0,1,WA,Jefferson
-5354.0,25,WA,King
-337.0,2,WA,Kitsap
-25.0,1,WA,Kittitas
-42.0,2,WA,Klickitat
-158.0,2,WA,Lewis
-73.0,2,WA,Lincoln
-25.0,1,WA,Mason
-90.0,3,WA,Okanogan
-30.0,2,WA,Pacific
-75.0,1,WA,Pend Oreille
-1648.0,8,WA,Pierce
-10.0,1,WA,San Juan
-205.0,3,WA,Skagit
-845.0,4,WA,Snohomish
-1478.0,6,WA,Spokane
-95.0,2,WA,Stevens
-500.0,2,WA,Thurston
-87.0,1,WA,Walla Walla
-253.0,1,WA,Whatcom
-50.0,2,WA,Whitman
-460.0,4,WA,Yakima
+Number_of_beds,Number_of_hospitals,Location
+3667.0,22,Alameda_CA
+52.0,1,Amador_CA
+553.0,6,Butte_CA
+25.0,1,Calaveras_CA
+48.0,1,Colusa_CA
+1803.0,10,Contra Costa_CA
+49.0,1,Del Norte_CA
+252.0,3,El Dorado_CA
+3584.0,15,Fresno_CA
+47.0,1,Glenn_CA
+299.0,6,Humboldt_CA
+268.0,2,Imperial_CA
+62.0,2,Inyo_CA
+1892.0,14,Kern_CA
+173.0,1,Kings_CA
+62.0,2,Lake_CA
+25.0,1,Lassen_CA
+26672.0,112,Los Angeles_CA
+464.0,2,Madera_CA
+458.0,4,Marin_CA
+34.0,1,Mariposa_CA
+142.0,3,Mendocino_CA
+242.0,3,Merced_CA
+113.0,2,Modoc_CA
+17.0,1,Mono_CA
+794.0,5,Monterey_CA
+1777.0,3,Napa_CA
+174.0,2,Nevada_CA
+7985.0,38,Orange_CA
+732.0,3,Placer_CA
+101.0,2,Plumas_CA
+4067.0,23,Riverside_CA
+3489.0,16,Sacramento_CA
+144.0,2,San Benito_CA
+5988.0,28,San Bernardino_CA
+7600.0,27,San Diego_CA
+4819.0,17,San Francisco_CA
+1247.0,9,San Joaquin_CA
+1740.0,6,San Luis Obispo_CA
+1724.0,8,San Mateo_CA
+1089.0,7,Santa Barbara_CA
+3693.0,16,Santa Clara_CA
+372.0,4,Santa Cruz_CA
+721.0,6,Shasta_CA
+61.0,2,Siskiyou_CA
+753.0,7,Solano_CA
+892.0,9,Sonoma_CA
+1580.0,10,Stanislaus_CA
+46.0,3,Sutter_CA
+92.0,2,Tehama_CA
+48.0,1,Trinity_CA
+1974.0,3,Tulare_CA
+152.0,2,Tuolumne_CA
+1623.0,11,Ventura_CA
+153.0,2,Yolo_CA
+221.0,1,Yuba_CA
+25.0,2,Baker_OR
+134.0,1,Benton_OR
+467.0,4,Clackamas_OR
+50.0,2,Clatsop_OR
+173.0,3,Coos_OR
+25.0,1,Crook_OR
+24.0,1,Curry_OR
+274.0,2,Deschutes_OR
+145.0,3,Douglas_OR
+16.0,1,Grant_OR
+25.0,1,Harney_OR
+25.0,1,Hood River_OR
+543.0,3,Jackson_OR
+31.0,1,Jefferson_OR
+98.0,1,Josephine_OR
+131.0,1,Klamath_OR
+24.0,1,Lake_OR
+971.0,5,Lane_OR
+50.0,2,Lincoln_OR
+89.0,2,Linn_OR
+49.0,2,Malheur_OR
+478.0,4,Marion_OR
+12.0,1,Morrow_OR
+1894.0,10,Multnomah_OR
+6.0,1,Polk_OR
+25.0,1,Tillamook_OR
+74.0,3,Umatilla_OR
+25.0,1,Union_OR
+25.0,1,Wallowa_OR
+49.0,1,Wasco_OR
+840.0,5,Washington_OR
+107.0,2,Yamhill_OR
+45.0,2,Adams_WA
+25.0,1,Asotin_WA
+438.0,4,Benton_WA
+267.0,4,Chelan_WA
+161.0,2,Clallam_WA
+644.0,2,Clark_WA
+25.0,1,Columbia_WA
+193.0,1,Cowlitz_WA
+25.0,1,Ferry_WA
+25.0,1,Franklin_WA
+25.0,1,Garfield_WA
+150.0,4,Grant_WA
+81.0,2,Grays Harbor_WA
+25.0,1,Island_WA
+25.0,1,Jefferson_WA
+5354.0,25,King_WA
+337.0,2,Kitsap_WA
+25.0,1,Kittitas_WA
+42.0,2,Klickitat_WA
+158.0,2,Lewis_WA
+73.0,2,Lincoln_WA
+25.0,1,Mason_WA
+90.0,3,Okanogan_WA
+30.0,2,Pacific_WA
+75.0,1,Pend Oreille_WA
+1648.0,8,Pierce_WA
+10.0,1,San Juan_WA
+205.0,3,Skagit_WA
+845.0,4,Snohomish_WA
+1478.0,6,Spokane_WA
+95.0,2,Stevens_WA
+500.0,2,Thurston_WA
+87.0,1,Walla Walla_WA
+253.0,1,Whatcom_WA
+50.0,2,Whitman_WA
+460.0,4,Yakima_WA
